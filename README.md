@@ -1,6 +1,6 @@
 ![GitHub](https://github.com/tiagopagioro/node)
 # Tutorial Node JS
-Tutorial de programação usando javascript na plataforma Node
+Tutorial de programação usando JavaScript e a plataforma Node
 ## Autor
 Tiago Pagioro
 ## Links
