@@ -1,8 +1,8 @@
-![GitHub](https://img.shields.io/github/license/professorjosedeassis/node)
+![GitHub](https://img.shields.io/github/license/tiagopagioro/node)
 # Tutorial NodeJS 
 Tutorial de lógica de programação usando JavaScript e a plataforma Node.
 ## Autor
-Professor José de Assis
+Tiago Pagioro Faim
 ## Links
 [node](https://nodejs.org/en/)
 
