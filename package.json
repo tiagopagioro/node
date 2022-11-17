@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Tutorial de lógica de programação com a plataforma Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorjosedeassis/node.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "git"
+  ],
+  "author": "Professor José de Assis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/professorjosedeassis/node/issues"
+  },
+  "homepage": "https://github.com/professorjosedeassis/node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

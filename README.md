@@ -1,16 +1,16 @@
-![GitHub](https://github.com/tiagopagioro/node)
-# Tutorial Node JS
-Tutorial de programação usando JavaScript e a plataforma Node
+![GitHub](https://img.shields.io/github/license/professorjosedeassis/node)
+# Tutorial NodeJS 
+Tutorial de lógica de programação usando JavaScript e a plataforma Node.
 ## Autor
-Tiago Pagioro
+Professor José de Assis
 ## Links
-[Node](https://nodejs.org/en/)
+[node](https://nodejs.org/en/)
 
 [vscode](https://code.visualstudio.com/)
 
-[npmjs](https://www.npmjs.com/package/repository)
+[npm repository](https://www.npmjs.com/package/repository)
 
-##Dicas
+## Dicas
 - node -v (versão do node)
 - npm -v (versão do gerenciador de pacotes)
 - npm init (iniciar o package.json)
