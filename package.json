@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/professorjosedeassis/node.git"
+    "url": "git+https://github.com/tiagopagioro/node.git"
   },
   "keywords": [
     "node",
     "tutorial",
     "git"
   ],
-  "author": "Professor José de Assis",
+  "author": "Tiago Pagioro Faim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/professorjosedeassis/node/issues"
+    "url": "https://github.com/tiagopagioro/node/issues"
   },
-  "homepage": "https://github.com/professorjosedeassis/node#readme",
+  "homepage": "https://github.com/tiagopagioro/node#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "readline-sync": "^1.4.10"
